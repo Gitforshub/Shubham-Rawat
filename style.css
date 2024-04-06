@@ -173,7 +173,7 @@ body.active { overflow: hidden; }
     align-items: center;
     justify-content: space-between;
     position: absolute;
-    bottom: 2%;
+    bottom: 3%;
     width: 100%;
     padding: 0 3vw;
 }
