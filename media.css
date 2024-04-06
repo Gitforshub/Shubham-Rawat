@@ -1,0 +1,133 @@
+@media (max-width:600px) {
+    #nav {
+        padding: 20px 15px;
+    }
+
+    #nav img{
+        width: 30px;
+        height: 30px;
+    }
+
+
+    #shape {
+        top: 10%;
+        width: 100vw;
+        height: 100vh;
+    }
+    #heading{
+        padding: 0 30px;
+    }
+
+    #heading h1{
+        font-size: 16.5vw;
+        line-height: 1.2;
+    }
+
+    #short-heading{
+        margin-top: 150px;
+        padding-right: 10px;
+    }
+
+    #short-heading h5{
+          font-size: 5vw;
+    }
+
+
+    #home-footer {
+        bottom: 5%;
+    }
+
+    #home-footer a {
+        font-size: 3vw;
+    }
+
+    #about{
+        flex-direction: column;
+        height: 80vh;
+        padding: 1vw 2vw;
+        justify-content: center;
+        /* border: 1px solid white; */
+    }
+
+    #shape4{
+        height: 100vw;
+        
+        height: 50vh;
+        width: 75%;
+
+    }
+    #about img{
+        height: 40%;
+        width: 80%;
+    }
+
+    #about .about-me h1{
+        margin-bottom: 15px;
+        font-size: 10vw;
+        text-align: center;
+    }
+
+    #about .about-me{
+        align-items: center;
+        margin-top: 25px;
+    }
+
+    #about .about-me p{
+        text-align: center;
+        font-size: 3.5vw;
+        
+    }
+
+    #projects{
+        height: 80vh;
+    }
+
+    #projects .sub-head{
+        font-size: 6vw;
+    }
+
+    .elem {
+        padding: 6vw 3vw;
+    }
+
+    .elem h1{
+        font-size: 8vw;
+    }
+
+    #elem img{
+        height: 200%;
+    }
+
+    #contact{
+        margin-top: 0w;
+        padding-top: 2vw;
+        /* border: 1px solid #fff; */
+        flex-direction: column;
+        justify-content: center;
+        height: 50vh;
+    }
+
+    #contact .touch{
+        font-size: 8vw;
+        width: 100%;
+    }
+
+    #contact  .social a h1{
+        font-size: 6vw;
+    }
+
+    #contact .social .fa-arrow-right{
+        font-size: 4vw;
+    }
+
+    #shape3{
+        height: 60vw;
+        top: 65vw;
+    }
+
+    #loader h1{
+        font-size: 8vw;
+    }
+
+   
+}
