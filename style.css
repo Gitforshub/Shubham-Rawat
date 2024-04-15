@@ -17,6 +17,7 @@ html, body{
     height: 100%;
     color: #fff;
     background-color: #000;
+    overflow: hidden;
 }
 
 body.active { overflow: hidden; }
@@ -106,8 +107,8 @@ body.active { overflow: hidden; }
 }
 
 #nav img {
-    height: 80px;
-    width: 80px;
+    height: 50px;
+    width: 50px;
 }
 
 #home{
